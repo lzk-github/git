@@ -1,6 +1,2 @@
 with testing
-<<<<<<< HEAD
-xx.in.master
-=======
-xx in testing
->>>>>>> testing
+
